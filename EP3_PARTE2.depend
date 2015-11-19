@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1447719867 source:c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\main.cpp
+	"Tela.h"
+	<stdexcept>
+
+1447874301 c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\include\tela.h
+	"Pessoa.h"
+	"Departamento.h"
+	"Mensagem.h"
+	<vector>
+	<list>
+	<iterator>
+
+1447877376 c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\include\pessoa.h
+	<string>
+	<stdexcept>
+	"Mensagem.h"
+	"Perfil.h"
+	<vector>
+	<algorithm>
+	<iterator>
+
+1447810753 c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\include\mensagem.h
+	<string>
+	<iostream>
+
+1447811727 c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\include\perfil.h
+	"MensagemComCurtir.h"
+	"Mensagem.h"
+	<string>
+	<stdexcept>
+	<vector>
+	<list>
+
+1447812986 c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\include\mensagemcomcurtir.h
+	<string>
+	<iostream>
+	"Mensagem.h"
+
+1447720274 c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\include\departamento.h
+	<string>
+	"Pessoa.h"
+	"Perfil.h"
+
+1447814009 source:c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\src\departamento.cpp
+	"Departamento.h"
+
+1447811232 source:c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\src\mensagem.cpp
+	"Mensagem.h"
+
+1447871913 source:c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\src\mensagemcomcurtir.cpp
+	"MensagemComCurtir.h"
+
+1447812811 source:c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\src\perfil.cpp
+	"Perfil.h"
+	<iostream>
+
+1447883564 source:c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\src\pessoa.cpp
+	<iostream>
+	"Pessoa.h"
+	"Mensagem.h"
+
+1447883963 source:c:\users\guiishida\usp\2 semestre\pcs3111\ep3\ep3_parte2\src\tela.cpp
+	<iostream>
+	<string>
+	"Tela.h"
+
+1447860306 source:c:\users\tiago\desktop\ep3_parte2\main.cpp
+	"Tela.h"
+	<stdexcept>
+
+1447900795 c:\users\tiago\desktop\ep3_parte2\include\tela.h
+	"Pessoa.h"
+	"Departamento.h"
+	"Mensagem.h"
+	<vector>
+	<list>
+	<iterator>
+
+1447860314 c:\users\tiago\desktop\ep3_parte2\include\pessoa.h
+	<string>
+	<stdexcept>
+	"Mensagem.h"
+	"Perfil.h"
+	<vector>
+	<algorithm>
+	<iterator>
+
+1447860310 c:\users\tiago\desktop\ep3_parte2\include\mensagem.h
+	<string>
+	<iostream>
+
+1447882434 c:\users\tiago\desktop\ep3_parte2\include\perfil.h
+	"MensagemComCurtir.h"
+	"Mensagem.h"
+	<string>
+	<stdexcept>
+	<vector>
+	<list>
+	<algorithm>
+
+1447860312 c:\users\tiago\desktop\ep3_parte2\include\mensagemcomcurtir.h
+	<string>
+	<iostream>
+	"Mensagem.h"
+
+1447860308 c:\users\tiago\desktop\ep3_parte2\include\departamento.h
+	<string>
+	"Pessoa.h"
+	"Perfil.h"
+
+1447860318 source:c:\users\tiago\desktop\ep3_parte2\src\departamento.cpp
+	"Departamento.h"
+
+1447860320 source:c:\users\tiago\desktop\ep3_parte2\src\mensagem.cpp
+	"Mensagem.h"
+
+1447860322 source:c:\users\tiago\desktop\ep3_parte2\src\mensagemcomcurtir.cpp
+	"MensagemComCurtir.h"
+
+1447901263 source:c:\users\tiago\desktop\ep3_parte2\src\pessoa.cpp
+	<iostream>
+	"Pessoa.h"
+	"Mensagem.h"
+
+1447900795 source:c:\users\tiago\desktop\ep3_parte2\src\tela.cpp
+	<iostream>
+	<string>
+	"Tela.h"
+
+1447902164 source:c:\users\tiago\desktop\ep3_parte2\src\perfil.cpp
+	"Perfil.h"
+	<iostream>
+
